@@ -6,8 +6,9 @@ Using python to generate a bat script of repetitive lines of code that differ in
 The script generated is not generic and must not be used for other audio files
 
 
+## [The python Script is also found here](https://github.com/David-Main/batchSorting/blob/main/BibleSort.py)
+
 ### Here's a quick demo of how it worked
 
 https://user-images.githubusercontent.com/89542969/139326408-aa1d2e40-bfb9-47a8-9009-030e00cb81b0.mp4
 
-[The python Script is also found here](https://github.com/David-Main/batchSorting/blob/main/BibleSort.py)
